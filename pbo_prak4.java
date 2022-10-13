@@ -44,8 +44,4 @@ class Katak {
 
 class Kecebong extends Katak {
     double panjangEkor;
-
-    void kecebong(int a, String b, double c){
-
     }
-}
